@@ -1,0 +1,16 @@
+# Ignore all node_modules everywhere
+node_modules/
+
+# Ignore all environment files everywhere
+.env
+.env.local
+.env.development
+.env.production
+
+# Optional: logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
